@@ -3,3 +3,6 @@
 
 <img width="250" height="100" alt="ARMAGUEDON-compressed 2new" src="https://github.com/user-attachments/assets/f3fcaf3e-ee4d-4689-877c-d11cefb7079e" />
 
+<img width="275" height="90" alt="gifgit" src="https://github.com/user-attachments/assets/1273412f-0249-4630-abdc-a732f5115678" />
+
+
