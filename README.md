@@ -6,6 +6,8 @@
 <img width="275" height="90" alt="gifgit" src="https://github.com/user-attachments/assets/1273412f-0249-4630-abdc-a732f5115678" />
 
 <img width="125" height="117" alt="onyx-compresse" src="https://github.com/user-attachments/assets/0c7bc960-577d-4d90-859b-ca0934da209c" />
+
+//comexposium Logo
 <img width="1121" height="222" alt="CXPM_Bgrem" src="https://github.com/user-attachments/assets/af12f43c-e2d1-47f9-958f-1fdbb52ee22e" />
 
 
