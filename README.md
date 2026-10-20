@@ -22,6 +22,11 @@
 // SIAL ONYX BOT BANNER
 <img width="2000" height="480" alt="sial-banner" src="https://github.com/user-attachments/assets/1255f4a8-0597-4d6a-b0aa-0facef3f4188" />
 
+<img width="800" height="120" alt="sial-olive-bg" src="https://github.com/user-attachments/assets/d5bdb67b-4dc7-4830-a9f8-86b1ef9baa06" />
+
+<img width="2000" height="480" alt="sial-banner-olive" src="https://github.com/user-attachments/assets/b2ba9bbb-1ac0-48dc-8e32-7e34ace85913" />
+
+
 
 
 
