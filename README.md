@@ -1,3 +1,4 @@
+<img width="2000" height="480" alt="sial-banner-olive-v2" src="https://github.com/user-attachments/assets/6a69dc06-b56e-4b19-9182-2798b1d89d72" />
 <img width="100%" height="50px" alt="ARMAGUEDON-compressed 2" src="https://github.com/user-attachments/assets/da01a907-d9bb-4396-9f4a-c7a6a84fa2e0" />
 # ComexposiumONYX
 
