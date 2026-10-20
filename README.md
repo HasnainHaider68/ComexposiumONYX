@@ -36,6 +36,10 @@
 <img width="2000" height="480" alt="sial-banner-olive-v4" src="https://github.com/user-attachments/assets/261bf5e9-79ce-49cb-9770-8518c69ab716" />
 
 
+<img width="560" height="112" alt="sial-button-link" src="https://github.com/user-attachments/assets/55c6aa9e-83a2-46ec-ac9b-e5a6ab332756" />
+
+
+
 
 
 
