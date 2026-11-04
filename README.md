@@ -1,3 +1,4 @@
+<img width="2000" height="416" alt="onyx-webinar-banner-purple-compact" src="https://github.com/user-attachments/assets/ca2ddf28-c6ca-42ec-8ae9-ec689d8670c9" />
 <img width="2000" height="480" alt="sial-banner-olive-v2" src="https://github.com/user-attachments/assets/6a69dc06-b56e-4b19-9182-2798b1d89d72" />
 <img width="100%" height="50px" alt="ARMAGUEDON-compressed 2" src="https://github.com/user-attachments/assets/da01a907-d9bb-4396-9f4a-c7a6a84fa2e0" />
 # ComexposiumONYX
@@ -26,6 +27,9 @@
 <img width="2000" height="480" alt="onyx-webinar-banner-purple" src="https://github.com/user-attachments/assets/37d2daf5-3f40-46c3-a399-a83fda921ace" />
 <img width="800" height="160" alt="onyx-violet-bg" src="https://github.com/user-attachments/assets/4348d55e-47a5-491d-a60f-1b6d3c6eb62a" />
 <img width="800" height="160" alt="onyx-lavender-bg" src="https://github.com/user-attachments/assets/64558924-92c3-44e6-9044-340e3e402114" />
+
+<img width="2000" height="416" alt="onyx-webinar-banner-purple-compact" src="https://github.com/user-attachments/assets/80cc0b91-6b23-4633-9f33-490b972eaf8b" />
+
 
 
 
